@@ -1,4 +1,14 @@
-This is a AI helper to suggest and perform operations to find the new word in the new Wordle Game.
+This is a AI helper to suggest and perform operations to find the new word in the new Wordle Game.  
+I used an Oxford Dictionary words Dataset and trimmed out all the 5 letter words from it and stored them in a list.  
+Now here where it gets fun.
+I initially tried to remake the entire game within python so i can visualize it in a better way, but in order to remake the entire game , i also already need to know my own wordle word.    
+You can see some outputs in my code wher the wordle box is being created.
+
+Now inorder to use it in the actual NY TIMES game, you obcviously need to enter the inferences you get from your guessed words into my code.
+Each word you enter, will have 3 formats of output.
+Green - Correct letter and Correct Position. ( Input the word and its position in my code)   
+Yellow - Correct letter , wrong Position.    
+Grey/ Red - Wrong letter.   
 
 
 Scroll below to use the current version.   
