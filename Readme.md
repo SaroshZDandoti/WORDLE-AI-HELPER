@@ -3,6 +3,7 @@ This is a AI helper to suggest and perform operations to find the new word in th
 
 Scroll below to use the current version.   
 Run the first cell to load the dataset.
+If you use this smartly you will always hit the answer in the 2nd and  3rd try.  
 
 ### How to Use?  
 1. Put the yellow words in the contains list using quotations and commas.   
